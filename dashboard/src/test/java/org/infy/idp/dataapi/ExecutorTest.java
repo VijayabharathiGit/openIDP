@@ -85,16 +85,4 @@ public class ExecutorTest {
 
 		}
 	}
-	
-	/*@Test
-	public void insertICQAdetailsTest() {
-		try {
-
-			Integer temp = executor.insertICQAdetails(1,"test","test","test","test");
-
-			assertNotNull(temp);
-		} catch (Exception e) {
-
-		}
-	}*/
 }
